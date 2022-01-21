@@ -10,7 +10,7 @@
 
 🐯 **하동준** [T3229]  [@djh0211](https://github.com/djh0211) <br/>
 🐈 **허민영** [T3235]  [@Palsyd123](https://github.com/alsyd123) <br/>
-🐘 **노건웅** [T3073] [@nkw011 ](https://github.com/nkw011) <br/>
+🐯 **노건웅** [T3073] [@nkw011 ](https://github.com/nkw011) <br/>
 🐷 **임경연** [T3245]  [@readymadelife](https://github.com/readymadelife) <br/>
 🐷 **소경학** [T3110] [@GyeongHak](https://github.com/GyeongHak) <br/>
 
