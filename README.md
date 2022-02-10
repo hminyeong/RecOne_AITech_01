@@ -34,7 +34,8 @@
    
 ## Algorithm Study 📚
 >[Algorithm Study 📚](https://github.com/djh0211/RecOne_AITech_01/tree/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%8A%A4%ED%84%B0%EB%94%94)
->
+### 문제
+>[__2467__](https://github.com/djh0211/RecOne_AITech_01/tree/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%8A%A4%ED%84%B0%EB%94%94/2467)
    
 ## Project
 <!-- - [project backlogs](https://docs.google.com/spreadsheets/d/1EuBIlPTZk7xBFAkUquUIizwFApHUo1B9y8EUyKeIBO4/edit?usp=sharing)
