@@ -25,6 +25,8 @@ while heap:
     if cnt == A:
         break
 
+    print(heap)
+
     a, b = heapq.heappop(heap)
     if visited[b] != 1:
         visited[b] = 1
