@@ -1,5 +1,4 @@
 from itertools import combinations
-from tkinter.tix import Tree
 import sys
 input = sys.stdin.readline
 n, m = map(int,input().split())
