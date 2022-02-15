@@ -1,3 +1,5 @@
+import sys
+input = sys.stdin.readline
 s, e, q = input().split()
 def change_time(time):
     x, y = time.split(":")
@@ -15,7 +17,8 @@ cnt = 0
 for i in array:
     if i[0] <= answer[0]:
         dic[i[1]] = 1
-    elif answer[1] <= i[0] < answer[2]:
-        if i[1] in dic:
+    elif answer[1] <= i[0] <= answer[2]:
+        if i[1] in dic and dic[i[1]] == 1:
+            dic[i[1]] = 0
             cnt += 1
 print(cnt)
