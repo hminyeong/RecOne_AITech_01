@@ -1,35 +1,33 @@
 import sys
+from decimal import *
+import math
 
 
 input = sys.stdin.readline
 
 N, K = map(int, input().split())
 
-def mean(lst):
-    return sum(lst) / len(lst)
+getcontext().prec = 28
 
-def validation(lst, mean):
-    answer = 0
-    for i in lst:
-        answer += (i - mean)**2
-    return (answer / len(lst))
 
-p = list(map(int, input().split()))
+p = list(map(Decimal, input().split()))
 
-answer = 10000000000000000000000000000000000000000000000
+answer = Decimal('inf')
 
-while K <= N:
-    for j in range(N - K + 1):
-        i = p[j:j+K]
-        tmp_mean = mean(i)
-        tmp = validation(i, tmp_mean)
-        if tmp < answer:
-            answer = tmp
-    
-    K += 1
+for i in range(N-K+1):
+    sum_ = sum(p[i:i+K-1])
+    sum_2 = sum(_**2 for _ in p[i:i+K-1])
 
-print((answer)**(1/2))
+    for j in range(K,N-i+1):
+        sum_ += p[i+j-1]
+        sum_2 += p[i+j-1]**2
 
+        aver = sum_ / Decimal(j)
+        std = ((sum_2 / Decimal(j)) - aver**2).sqrt()
+
+        answer = min(answer, std)
+
+print(answer)
 
 
 
