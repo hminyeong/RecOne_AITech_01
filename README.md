@@ -31,6 +31,9 @@ RecOne 팀원을 소개합니다!
 | [BOJ 19583 - 싸이버개강총회](https://www.acmicpc.net/problem/19583) | [알고리즘스터디/19583](https://github.com/djh0211/RecOne_AITech_01/tree/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%8A%A4%ED%84%B0%EB%94%94/19583) |
 | [BOJ 15954 - 인형들](https://www.acmicpc.net/problem/15954)         | [알고리즘스터디/15954](https://github.com/djh0211/RecOne_AITech_01/tree/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%8A%A4%ED%84%B0%EB%94%94/15954) |
 | [BOJ 10159 - 저울](https://www.acmicpc.net/problem/10159)           | [알고리즘스터디/10159](https://github.com/djh0211/RecOne_AITech_01/tree/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%8A%A4%ED%84%B0%EB%94%94/10159) |
+| [BOJ 5052 - 전화번호 목록](https://www.acmicpc.net/problem/5052)    | [알고리즘스터디/5052](https://github.com/djh0211/RecOne_AITech_01/tree/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%8A%A4%ED%84%B0%EB%94%94/5052)   |
+| [BOJ 1727 - 커플 만들기](https://www.acmicpc.net/problem/1727)      | [알고리즘스터디/1727](https://github.com/djh0211/RecOne_AITech_01/tree/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%8A%A4%ED%84%B0%EB%94%94/1727)   |
+| [BOJ 1083 - 소트](https://www.acmicpc.net/problem/1083)             | [알고리즘스터디/1083](https://github.com/djh0211/RecOne_AITech_01/tree/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%8A%A4%ED%84%B0%EB%94%94/1083)   |
 
 ## WIKI 🗒
 
