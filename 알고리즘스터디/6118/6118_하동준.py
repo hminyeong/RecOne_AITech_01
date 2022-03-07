@@ -7,6 +7,8 @@ MAX = int(1e9)
 n, m = map(int, input().split())
 graph = [[] for _ in range(n+1)]
 visited = [False] * (n+1)
+
+# 양방향 그래프 생성 노드와 노드에 이어딘 엣지
 for _ in range(m):
     a, b = map(int, input().split())
     graph[a].append(b)
@@ -20,9 +22,14 @@ def bfs(start, d):
     global dist_ans, count_ans, min_ans
     q = deque()
     q.append((start, d))
+    # 큐 초기화하고 시작노드 큐인
+
     while q:
+        
         now, dist = q.popleft()
         visited[now] = True
+
+        
         if dist_ans < dist:
             min_ans = now
             dist_ans = dist
