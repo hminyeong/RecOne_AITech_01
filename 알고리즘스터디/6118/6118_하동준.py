@@ -28,18 +28,24 @@ def bfs(start, d):
         
         now, dist = q.popleft()
         visited[now] = True
+        # 현재노드팝 후 현재
 
-        
         if dist_ans < dist:
             min_ans = now
             dist_ans = dist
             count_ans = 1
+        # 거리갱신
+
         elif dist_ans == dist:
             min_ans = min(min_ans, now)
             count_ans += 1
+        # 거리 같으면
+
         for i in graph[now]:
             if not visited[i]:
                 visited[i] = True
                 q.append((i, dist+1))
+        # 팝한 노드에 연결된 노드를 큐에 넣는다
+        
 bfs(1, 0)
 print(min_ans, dist_ans, count_ans)
