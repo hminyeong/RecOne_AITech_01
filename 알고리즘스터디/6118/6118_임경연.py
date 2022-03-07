@@ -1,6 +1,5 @@
 import sys
 from collections import deque
-import copy
 
 input = sys.stdin.readline
 
@@ -16,8 +15,6 @@ for i in range(M):
 visited = [0] * N
 
 queue = deque()
-
-visited[0] = 1
 
 queue.append(0)
 visited[0] = 1
