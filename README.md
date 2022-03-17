@@ -43,6 +43,11 @@ RecOne 팀원을 소개합니다!
 | [BOJ 2023 - 신기한 소수](https://www.acmicpc.net/problem/2023)             | [알고리즘스터디/2023](https://github.com/djh0211/RecOne_AITech_01/tree/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%8A%A4%ED%84%B0%EB%94%94/2023)   |
 | [BOJ 2866 - 문자열 잘라내기](https://www.acmicpc.net/problem/2866)             | [알고리즘스터디/2866](https://github.com/djh0211/RecOne_AITech_01/tree/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%8A%A4%ED%84%B0%EB%94%94/2866)   |
 | [BOJ 6118 - 숨바꼭질](https://www.acmicpc.net/problem/6118)             | [알고리즘스터디/6118](https://github.com/djh0211/RecOne_AITech_01/tree/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%8A%A4%ED%84%B0%EB%94%94/6118)   |
+| [BOJ 1261 - 알고스팟](https://www.acmicpc.net/problem/1261)             | [알고리즘스터디/1261](https://github.com/djh0211/RecOne_AITech_01/tree/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%8A%A4%ED%84%B0%EB%94%94/1261)   |
+| [BOJ 1013 - Contact](https://www.acmicpc.net/problem/1013)             | [알고리즘스터디/1013](https://github.com/djh0211/RecOne_AITech_01/tree/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%8A%A4%ED%84%B0%EB%94%94/1013)   |
+| [BOJ 1261 - 알고스팟](https://www.acmicpc.net/problem/1261)             | [알고리즘스터디/1261](https://github.com/djh0211/RecOne_AITech_01/tree/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%8A%A4%ED%84%B0%EB%94%94/1261)   |
+| [BOJ 1148 - 단어 만들기](https://www.acmicpc.net/problem/1148)             | [알고리즘스터디/1148](https://github.com/djh0211/RecOne_AITech_01/tree/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%8A%A4%ED%84%B0%EB%94%94/1148)   |
+| [BOJ 16236 - 아기 상어](https://www.acmicpc.net/problem/16236)             | [알고리즘스터디/16236](https://github.com/djh0211/RecOne_AITech_01/tree/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%8A%A4%ED%84%B0%EB%94%94/16236)   |
 
 ## WIKI 🗒
 
