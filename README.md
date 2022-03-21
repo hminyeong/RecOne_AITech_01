@@ -48,6 +48,8 @@ RecOne 팀원을 소개합니다!
 | [BOJ 1261 - 알고스팟](https://www.acmicpc.net/problem/1261)             | [알고리즘스터디/1261](https://github.com/djh0211/RecOne_AITech_01/tree/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%8A%A4%ED%84%B0%EB%94%94/1261)   |
 | [BOJ 1148 - 단어 만들기](https://www.acmicpc.net/problem/1148)             | [알고리즘스터디/1148](https://github.com/djh0211/RecOne_AITech_01/tree/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%8A%A4%ED%84%B0%EB%94%94/1148)   |
 | [BOJ 16236 - 아기 상어](https://www.acmicpc.net/problem/16236)             | [알고리즘스터디/16236](https://github.com/djh0211/RecOne_AITech_01/tree/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%8A%A4%ED%84%B0%EB%94%94/16236)   |
+| [BOJ 20923 - 숫자 할리갈리 게임](https://www.acmicpc.net/problem/20923)             | [알고리즘스터디/20923](https://github.com/djh0211/RecOne_AITech_01/tree/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%8A%A4%ED%84%B0%EB%94%94/20923)   |
+| [BOJ 14284 - 간선 이어가기 2](https://www.acmicpc.net/problem/14284)             | [알고리즘스터디/14284](https://github.com/djh0211/RecOne_AITech_01/tree/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%8A%A4%ED%84%B0%EB%94%94/14284)   |
 
 ## WIKI 🗒
 
