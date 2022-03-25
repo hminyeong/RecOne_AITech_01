@@ -52,6 +52,7 @@ RecOne 팀원을 소개합니다!
 | [BOJ 14284 - 간선 이어가기 2](https://www.acmicpc.net/problem/14284)             | [알고리즘스터디/14284](https://github.com/djh0211/RecOne_AITech_01/tree/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%8A%A4%ED%84%B0%EB%94%94/14284)   |
 | [BOJ 5639 - 이진 검색 트리](https://www.acmicpc.net/problem/5639)             | [알고리즘스터디/5639](https://github.com/djh0211/RecOne_AITech_01/tree/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%8A%A4%ED%84%B0%EB%94%94/5639)   |
 | [BOJ 2002 - 추월](https://www.acmicpc.net/problem/2002)             | [알고리즘스터디/2002](https://github.com/djh0211/RecOne_AITech_01/tree/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%8A%A4%ED%84%B0%EB%94%94/2002)   |
+| [BOJ 1753 - 최단경로](https://www.acmicpc.net/problem/1753)             | [알고리즘스터디/1753](https://github.com/djh0211/RecOne_AITech_01/tree/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%8A%A4%ED%84%B0%EB%94%94/1753)   |
 
 ## WIKI 🗒
 
