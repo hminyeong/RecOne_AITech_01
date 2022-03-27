@@ -8,7 +8,7 @@ def func1(start):
     q = []
     heapq.heappush(q, (0, start))
     dis[start] = 0
-    
+
     while q:
         d, now = heapq.heappop(q)
         if dis[now] < d:
@@ -22,10 +22,13 @@ def func1(start):
 n, m = map(int, input().split())
 graph = [[] for _ in range(n+1)]
 dis = [INF]*(n+1)
+
 for _ in range(m):
     a, b, c = map(int, input().split())
     graph[a].append((b, c))
     graph[b].append((a, c))
+
 s, t = map(int, input().split())
 func1(s)
+
 print(dis[t])
