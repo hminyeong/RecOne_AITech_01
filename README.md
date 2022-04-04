@@ -54,6 +54,10 @@ RecOne 팀원을 소개합니다!
 | [BOJ 2002 - 추월](https://www.acmicpc.net/problem/2002)             | [알고리즘스터디/2002](https://github.com/djh0211/RecOne_AITech_01/tree/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%8A%A4%ED%84%B0%EB%94%94/2002)   |
 | [BOJ 1753 - 최단경로](https://www.acmicpc.net/problem/1753)             | [알고리즘스터디/1753](https://github.com/djh0211/RecOne_AITech_01/tree/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%8A%A4%ED%84%B0%EB%94%94/1753)   |
 | [BOJ 6416 - 트리인가?](https://www.acmicpc.net/problem/6416)             | [알고리즘스터디/6416](https://github.com/djh0211/RecOne_AITech_01/tree/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%8A%A4%ED%84%B0%EB%94%94/6416)   |
+| [BOJ 1025 - 제곱수 찾기](https://www.acmicpc.net/problem/1025)             | [알고리즘스터디/1025](https://github.com/djh0211/RecOne_AITech_01/tree/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%8A%A4%ED%84%B0%EB%94%94/1025)   |
+| [BOJ 2251 - 물통](https://www.acmicpc.net/problem/2251)             | [알고리즘스터디/2251](https://github.com/djh0211/RecOne_AITech_01/tree/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%8A%A4%ED%84%B0%EB%94%94/2251)   |
+| [BOJ 1504 - 특정한 최단 경로](https://www.acmicpc.net/problem/1504)             | [알고리즘스터디/1504](https://github.com/djh0211/RecOne_AITech_01/tree/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%8A%A4%ED%84%B0%EB%94%94/1504)   |
+| [BOJ 1027 - 고층 건물](https://www.acmicpc.net/problem/1027)             | [알고리즘스터디/1027](https://github.com/djh0211/RecOne_AITech_01/tree/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%8A%A4%ED%84%B0%EB%94%94/1027)   |
 
 ## WIKI 🗒
 
