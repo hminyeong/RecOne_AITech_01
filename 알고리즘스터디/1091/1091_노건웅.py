@@ -1,4 +1,4 @@
-# 풀이 및 해설: https://nkw011.github.io/baekjoon/baekjoon-1461/
+# 풀이 및 해설: https://nkw011.github.io/baekjoon/baekjoon-1091/
 
 # 두번째 풀이
 # 144272KB	308ms
