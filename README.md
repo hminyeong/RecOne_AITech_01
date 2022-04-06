@@ -59,7 +59,8 @@ RecOne 팀원을 소개합니다!
 | [BOJ 1504 - 특정한 최단 경로](https://www.acmicpc.net/problem/1504)             | [알고리즘스터디/1504](https://github.com/djh0211/RecOne_AITech_01/tree/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%8A%A4%ED%84%B0%EB%94%94/1504)   |
 | [BOJ 1027 - 고층 건물](https://www.acmicpc.net/problem/1027)             | [알고리즘스터디/1027](https://github.com/djh0211/RecOne_AITech_01/tree/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%8A%A4%ED%84%B0%EB%94%94/1027)   |
 | [BOJ 1461 - 도서관](https://www.acmicpc.net/problem/1461)             | [알고리즘스터디/1461](https://github.com/djh0211/RecOne_AITech_01/tree/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%8A%A4%ED%84%B0%EB%94%94/1461)   |
-|총 문제 수| 35|
+| [BOJ 1091 - 카드 섞기](https://www.acmicpc.net/problem/1091)             | [알고리즘스터디/1091](https://github.com/djh0211/RecOne_AITech_01/tree/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%8A%A4%ED%84%B0%EB%94%94/1091)   |
+|총 문제 수| 36|
 
 ## WIKI 🗒
 
