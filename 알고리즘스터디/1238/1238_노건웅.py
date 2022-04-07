@@ -1,3 +1,5 @@
+# 풀이 및 해설: https://nkw011.github.io/baekjoon/baekjoon-1238/
+
 # 두번째 풀이
 # 128264KB	296ms
 
