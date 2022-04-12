@@ -63,7 +63,8 @@ RecOne 팀원을 소개합니다!
 | [BOJ 1238 - 파티](https://www.acmicpc.net/problem/1238)             | [알고리즘스터디/1238](https://github.com/djh0211/RecOne_AITech_01/tree/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%8A%A4%ED%84%B0%EB%94%94/1238)   |
 | [BOJ 1254 - 팰린드롬 만들기](https://www.acmicpc.net/problem/1254)             | [알고리즘스터디/1254](https://github.com/djh0211/RecOne_AITech_01/tree/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%8A%A4%ED%84%B0%EB%94%94/1254)   |
 | [BOJ 1393 - 음하철도 구구팔](https://www.acmicpc.net/problem/1393)             | [알고리즘스터디/1393](https://github.com/djh0211/RecOne_AITech_01/tree/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%8A%A4%ED%84%B0%EB%94%94/1393)   |
-|총 문제 수| 39|
+| [BOJ 1747 - 소수&팰린드롬](https://www.acmicpc.net/problem/1747)             | [알고리즘스터디/1747](https://github.com/djh0211/RecOne_AITech_01/tree/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%8A%A4%ED%84%B0%EB%94%94/1747)   |
+|총 문제 수| 40|
 
 ## WIKI 🗒
 
