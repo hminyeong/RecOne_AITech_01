@@ -73,7 +73,9 @@ RecOne 팀원을 소개합니다!
 | [BOJ 10986 - 나머지 합](https://www.acmicpc.net/problem/10986)             | [알고리즘스터디/10986](https://github.com/djh0211/RecOne_AITech_01/tree/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%8A%A4%ED%84%B0%EB%94%94/10986)   |
 | [BOJ 15591 - MooTube(Silver)](https://www.acmicpc.net/problem/15591)             | [알고리즘스터디/15591](https://github.com/djh0211/RecOne_AITech_01/tree/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%8A%A4%ED%84%B0%EB%94%94/15591)   |
 | [BOJ 16234 - 인구 이동](https://www.acmicpc.net/problem/16234)             | [알고리즘스터디/16234](https://github.com/djh0211/RecOne_AITech_01/tree/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%8A%A4%ED%84%B0%EB%94%94/16234)   |
-|총 문제 수| 48|
+| [BOJ 16768 - Mooyo Mooyo](https://www.acmicpc.net/problem/16768)             | [알고리즘스터디/16768](https://github.com/djh0211/RecOne_AITech_01/tree/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%8A%A4%ED%84%B0%EB%94%94/16768)   |
+| [BOJ 16985 - Maaaaaaaaaze](https://www.acmicpc.net/problem/16985)             | [알고리즘스터디/16985](https://github.com/djh0211/RecOne_AITech_01/tree/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%8A%A4%ED%84%B0%EB%94%94/16985)   |
+|총 문제 수| 51|
 
 ## WIKI 🗒
 
