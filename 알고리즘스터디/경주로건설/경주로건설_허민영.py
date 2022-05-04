@@ -22,7 +22,7 @@ def solution(board):
             cost = 100
             if i != direction and direction != -1:
                 cost += 500
-            if 0 <= nx < N and 0 <= ny < N and board[nx][ny] != 1 and arr[nx][ny][i] > cost+arr[x][y][direction]
+            if 0 <= nx < N and 0 <= ny < N and board[nx][ny] != 1 and arr[nx][ny][i] > cost+arr[x][y][direction]:
                 arr[nx][ny][i] = cost+arr[x][y][direction]
                 queue.append([nx, ny, i])
 
